@@ -1,2 +1,2 @@
 # img-daemon
-Repository of images
+Repository for images
